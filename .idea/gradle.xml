@@ -11,6 +11,20 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Contacts/task" />
+            <option value="$PROJECT_DIR$/Contacts/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Contacts/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Contacts/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Contacts/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Contacts/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Contacts/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Generic methods/Class type parameters" />
+            <option value="$PROJECT_DIR$/Topics/Generic methods/Invert an array" />
+            <option value="$PROJECT_DIR$/Topics/Generic methods/Print content" />
+            <option value="$PROJECT_DIR$/Topics/Generic methods/The first element" />
+            <option value="$PROJECT_DIR$/Topics/Generic methods/The usage of parameters" />
+            <option value="$PROJECT_DIR$/Topics/Generic methods/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Switch expression/Days of the week" />
+            <option value="$PROJECT_DIR$/Topics/Switch expression/Theory" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>
