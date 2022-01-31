@@ -6,4 +6,5 @@
 *.xml
 *.yaml
 /.idea
-/Topics
+Topics/
+Contacts/Topics/
