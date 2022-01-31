@@ -3,3 +3,7 @@
 /Contacts/task/build/
 /Contacts/task/out/
 /Contacts/task/out/production/classes/
+*.xml
+*.yaml
+/.idea
+/Topics
